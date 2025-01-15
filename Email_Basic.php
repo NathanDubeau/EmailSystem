@@ -1,9 +1,9 @@
 <?php
-$to = "ndubeau23@gmail.com";
+$to = "nate@gmail.com";
 $subject = "Testing my Email";
 $message = "This is a test email to see if my code executes and works like i hope.";
-$sender_email = "soccer-nathan@hotmail.com";
-$sender_name = "Soccer Nate";
+$sender_email = "nathan@mail.com";
+$sender_name = "Nate";
 
 // Set additional headers
 $headers = "From: $sender_name <$sender_email>\r\n";
